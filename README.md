@@ -1,6 +1,6 @@
-# MLOps Course Repository
+# MLOps Course 
 
-Welcome to the **MLOps Course Repository**, a comprehensive resource hub for the YouTube course on **MLOps** by [DataSciLearn](https://www.youtube.com/@datascilearn). This course is designed to teach you the foundations of MLOps and how to implement machine learning workflows in production.
+Welcome to the **MLOps Course **, a comprehensive resource hub for the YouTube course on **MLOps** by [DataSciLearn](https://www.youtube.com/@datascilearn). This course is designed to teach you the foundations of MLOps and how to implement machine learning workflows in production.
 
 ## 📚 Course Overview
 This course covers the following topics:
